@@ -1,0 +1,69 @@
+[
+  { "id": 1,
+    "title": "Plan Satelite",
+    "subtitle": "Ideal para despegar tu emprendimiento. Brindá presencia y contenido de valor para impulsar tu marca",
+    "description": [
+      "Administración de Facebook",
+      "Administración de Instagram",
+      "Diseño de estética digital",
+      "9 posteos mensuales",
+      "9 historias mensuales",
+      "2 videos incluídos (para reels, historias o posteos)",
+      "Imágenes de archivo o internet",
+      "Copywrite de posteos",
+      "Calendarización y programamción de contenido,Subida de contenido",
+      "Pauta publicitaria mensual con pieza gráfica"
+    ],
+    "price": 10000
+  },
+  { "id": 2,
+    "title": "Plan Estrella",
+    "subtitle": "Acercate a tu audiencia y brillá en tu nicho. Genera  mayor crecimient, manteniendo tus redes activas y con presencia",
+    "description": [
+      "Administración de Facebook",
+      "Administración de Instagram",
+      "Diseño de estética digital",
+      "12 posteos mensuales",
+      "18 historias mensuales",
+      "4 videos incluídos (para reels, historias o posteos)",
+      "Imágenes de archivo o internet",
+      "Copywrite de posteos",
+      "Calendarización y programamción de contenido",
+      "Subida de contenido",
+      "Pauta publicitaria mensual con pieza gráfica"
+    ],
+    "price":15000
+  },
+  { "id": 3,
+    "title": "Plan Galaxia",
+    "subtitle": "Destacate por sobre tu compentencia. Acercate aún más a tu comunidad aumentando el engagement, a través de la interacción diaria con contenido galáctico",
+    "description": [
+      "Administración de Facebook",
+      "Administración de Instagram",
+      "Diseño de estética digital",
+      "18 posteos mensuales",
+      "30 historias mensuales",
+      "6 videos incluídos (para reels, historias o posteos)",
+      "Imágenes de archivo o internet",
+      "Copywrite de posteos",
+      "Calendarización y programamción de contenido",
+      "Subida de contenido",
+      "Pauta publicitaria mensual con pieza gráfica"
+    ],
+    "price": 20000
+  },
+  { "id": 4,
+    "title": "Plan Fugaz",
+    "subtitle": "Pensado para emprendedores que quieran renovar el estilo de su marca",
+    "description": [
+      "Rediseño de logo",
+      "5 portadas de historias destacadas",
+      "Elementos gráficos editables en Canvas",
+      "4 plantillas para post",
+      "4 plantillas paraa historias",
+      "1 diseño para packaging (bolsas, etiquetas o tarjetas)",
+      "Asesoramiento personalizado"
+    ],
+    "price": 9000
+  }
+]
